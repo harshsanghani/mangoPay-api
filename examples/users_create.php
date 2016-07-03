@@ -1,3 +1,9 @@
+<!--
+	Author :- Harsh Sanghani
+	Website :- www.angelinfotech.info
+	
+	This demo is created for mangoPay-API user, You have to change some relative API key, id and etc for working example.
+-->
 <?php
     // require include only one file
     require_once '../MangoPay/Autoloader.php';
